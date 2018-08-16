@@ -23,3 +23,14 @@
 8) [SortedListToBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/SortedListToBST.java) _med_
 9) [ValidateBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ValidateBST.java) _med_ ***
 10) [ZigZag](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ZigZag.java) _med_ 
+11) [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java) _easy_ 
+
+## Misc
+1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
+2) [TwoSum](https://github.com/thealgor/Leetcode/blob/master/easy/misc/TwoSum.java) _easy
+
+
+
+
+
+###Total: 18
