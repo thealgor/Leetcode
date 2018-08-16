@@ -1,3 +1,6 @@
+// Tip1: When I tried to resolve it, I was not able to until I ran with a large example number: 80
+
+
 class SquareRoot {
     public int mySqrt(int x) {
         long lo =0, hi = x;
