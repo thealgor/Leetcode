@@ -11,7 +11,7 @@
 7) [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java) _easy_ <br />
 8) [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java) <br />
 9) [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) _hard_ <br />
-10) [FindKClosestElements] (https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) _med_ *** <br />
+10) [FindKClosestElements](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) _med_ *** <br />
 11) [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) _med_ *** <br /> 
 12) [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java) _med_ ** <br />
 
