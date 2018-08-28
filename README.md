@@ -6,6 +6,14 @@
 2) [Sqrt(x)](https://github.com/thealgor/Leetcode/blob/master/easy/SquareRoot.java) _easy_ * <br />
 3) [GuessNumber](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/GuessNumber.java) _v.esay_ <br />
 4) [RotatedBinarySearch](https://github.com/thealgor/Leetcode/blob/master/medium/BinarySearch/RotatedBinarySearch.java) _med_ ** <br />
+5) [IntersectionOfTwoArrays](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays.java) _easy_ <br />
+6) [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java) _easy_ <br />
+7) [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java) _easy_ <br />
+8) [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java) <br />
+9) [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) _hard_ <br />
+10) [FindKClosestElements] (https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) _med_ *** <br />
+11) [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) _med_ *** <br /> 
+12) [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java) _med_ ** <br />
 
 
 ## Linked Lists
@@ -24,6 +32,7 @@
 9) [ValidateBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ValidateBST.java) _med_ ***
 10) [ZigZag](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ZigZag.java) _med_ 
 11) [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java) _easy_ 
+12) [ClosestBSTValue](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/Trees/ClosestBSTValue.java) _easy>
 
 ## Misc
 1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
@@ -33,4 +42,4 @@
 
 
 
-### Total: 18
+### Total: 27
