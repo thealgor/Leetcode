@@ -47,11 +47,11 @@
 2) [TwoSum](https://github.com/thealgor/Leetcode/blob/master/easy/misc/TwoSum.java) _easy
 3) [ReverseInteger](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/easy/misc/ReverseInteger.java)
 4) [Valid Paranthesis](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/easy/misc/ValidParanthesis.java)
-5) [TwoSumDuplicates](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/misc/TwoSumDuplicates.java)
-6)[Search2DMatrix](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix.java)
-7)[Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java)
-8)[TwoSum2](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/easy/BinarySearch/TwoSum2.java)
-9) [FindingTheDuplicateNumber](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/medium/BinarySearch/FindTheDuplicateNumber.java)
+5) [TwoSumDuplicates](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/misc/TwoSumDuplicates.java) <br />
+6)[Search2DMatrix](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix.java) <br />
+7)[Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java) <br />
+8)[TwoSum2](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/easy/BinarySearch/TwoSum2.java) <br />
+9) [FindingTheDuplicateNumber](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/medium/BinarySearch/FindTheDuplicateNumber.java) <br />
 
 
 
