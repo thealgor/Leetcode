@@ -57,12 +57,12 @@
 
 ## DP
 1) [CountingBits](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/DP/CountingBits.java)
-2)[01Matrix](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/Graphs/ZeroOneMatrix.java)
+2) [01Matrix](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/Graphs/ZeroOneMatrix.java)
 3) [HouseRobber](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/DP/HouseRobber.java)
 4) [PerfectSquares](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/PerfectSquares.java)
 5) [MinimumPathSum](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/MinimumPathSum.java)
-6)[EditDistance](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/EditDistance.java)
-7)[Maximum Sum Subarray](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/easy/DP/MaximumSubArraySum.java)
+6) [EditDistance](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/EditDistance.java)
+7) [Maximum Sum Subarray](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/easy/DP/MaximumSubArraySum.java)
 8) [CoinChange](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/CoinChange.java)
 9) [LongestCommonSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestCommonSubsequence.java)
 10) [LongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestIncresingSubsequence.java)
