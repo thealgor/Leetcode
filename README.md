@@ -34,6 +34,11 @@
 11) [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java) _easy_ 
 12) [ClosestBSTValue](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/Trees/ClosestBSTValue.java) _easy>
 13[RightSideView](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Trees/RightSideView.java)
+14) [InvertBinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/Solution.java)
+15) [IsSameTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/SameTree.java)
+16) [MergeTwoBinaryTrees](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MergeTwoBinaryTrees.java)
+17) [MaximumDepthOfABinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MaximumDepthOfBinaryTree.java)
+18) [BinarySearchTreeIterator](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Trees/BinarySearchTreeIterator.java)
 
 ## Misc
 1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
@@ -44,10 +49,15 @@
 6)[Search2DMatrix](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix.java)
 7)[Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java)
 
+
 ## DP
 1) [CountingBits](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/DP/CountingBits.java)
 2)[01Matrix](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/Graphs/ZeroOneMatrix.java)
 3) [HouseRobber](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/DP/HouseRobber.java)
+4) [PerfectSquares](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/PerfectSquares.java)
+5) [MinimumPathSum](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/MinimumPathSum.java)
+6)[EditDistance](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/EditDistance.java)
+
 
 ## Graphs
 
@@ -56,6 +66,8 @@
 3) [BestTimeToBuyAndSellStocks](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/BestTimeToBuyAndSellStock.java)
 4) [BestTimeToBuyAndSellStocks2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/Solution.java)
 5) [ClimbingStairs](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/ClimbingStairs.java)
+6) [WordLadder](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/WordLadder.java)
+7) [NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)
 
 
 ## BackTracking
