@@ -1,4 +1,4 @@
-package BinarySearch;
+package hard.BinarySearch;
 
 /**
  * Got the definition of median wrong. for even numbers, 12, arr[5]+arr[6]/2. For odd it is just arr[5]
