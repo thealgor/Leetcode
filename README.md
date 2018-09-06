@@ -10,16 +10,21 @@
 6) [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java) _easy_ <br />
 7) [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java) _easy_ <br />
 8) [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java) <br />
-9) [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) _hard_ <br />
+9) [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) _hard_ <br />
 10) [FindKClosestElements](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) _med_ *** <br />
 11) [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) _med_ *** <br /> 
 12) [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java) _med_ ** <br />
-13) [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/hard/BinarySearch/MedianOfSortedArrays.java)
+13) [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/MedianOfSortedArrays.java)
+14) [FindPeakElement](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/BinarySearch/FindPeakElement.java)
+15) [FirstAndLastPositionInAnArray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstAndLastPositionInArray.java)
+16) [FirstBadVersion](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstBadVersion.java)
+
 
 
 
 ## Linked Lists
 1) [AddTwoNumbers](https://github.com/thealgor/Leetcode/blob/master/medium/LinkedList/AddTwoNumbers.java) _med_ _*_
+2) [RemoveNthNodeFromEnd](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/LinkedList/RemoveNthNodeFromEnd.java)
 
 
 ## Trees
@@ -41,6 +46,13 @@
 16) [MergeTwoBinaryTrees](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MergeTwoBinaryTrees.java)
 17) [MaximumDepthOfABinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MaximumDepthOfBinaryTree.java)
 18) [BinarySearchTreeIterator](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Trees/BinarySearchTreeIterator.java)
+19) [PostOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/Trees/PostOrderTraversal.java)
+20) [InOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreeInOrderTraversal.java)
+21) [BinaryTreePreOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreePreOrderTraversal.java)
+22) [PopulatingRightNextPointer](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/PopulatingNextRightPointer.java)
+
+
+
 
 ## Misc
 1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
@@ -52,7 +64,14 @@
 7) [Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java) <br />
 8) [TwoSum2](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/easy/BinarySearch/TwoSum2.java) <br />
 9) [FindingTheDuplicateNumber](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/medium/BinarySearch/FindTheDuplicateNumber.java) <br />
-
+10) [IsPalindrome](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/IsPalindrome.java)
+11) [NumberOf1Bits](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/NumberOf1Bits.java)
+12) [RomanToInteger](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/RomanToInteger.java)
+13) [ContainerWithMostWater](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ContainerWithMostWater.java)
+14) [LRUCacheDoublyLinkedList](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheDoublyLinkedList.java)
+15) [LRUCacheLinkedHashMap](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheLinkedHashMap.java)
+16) [ProductOfArrayExceptSelf](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ProductOfArrayExceptSelf.java)
+17) [BracketMatch](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/Solution.java)
 
 
 ## DP
@@ -66,6 +85,9 @@
 8) [CoinChange](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/CoinChange.java)
 9) [LongestCommonSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestCommonSubsequence.java)
 10) [LongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestIncresingSubsequence.java)
+11) [MaximumProductSubarray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/MaximumProductSubarray.java)
+12) [WordBreak](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/WordBreak.java)
+
 
 
 
@@ -78,14 +100,20 @@
 5) [ClimbingStairs](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/ClimbingStairs.java)
 6) [WordLadder](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/WordLadder.java)
 7) [NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)
+8) [CloneGraph](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)
+9) [MaxAreaOfAnIsland](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)
+
 
 
 ## BackTracking
 1) [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)
 
 
+## Stacks And Queues
+1)[ValidParantheses](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/StackAndQueues/ValidParantheses.java)
 
 
 
 
-### Total: 59
+
+### Total: 79
