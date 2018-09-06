@@ -33,10 +33,25 @@
 10) [ZigZag](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ZigZag.java) _med_ 
 11) [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java) _easy_ 
 12) [ClosestBSTValue](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/Trees/ClosestBSTValue.java) _easy>
+13[RightSideView](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Trees/RightSideView.java)
 
 ## Misc
 1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
 2) [TwoSum](https://github.com/thealgor/Leetcode/blob/master/easy/misc/TwoSum.java) _easy
+3) [ReverseInteger](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/easy/misc/ReverseInteger.java)
+4) [Valid Paranthesis](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/easy/misc/ValidParanthesis.java)
+
+## DP
+
+
+## Graphs
+
+1) [PacificAtlantic](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Graphs/PacificAtlanticWaterFlow.java) 
+
+
+## BackTracking
+1) [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)
+
 
 
 
