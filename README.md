@@ -53,7 +53,7 @@
 |18)| [BinarySearchTreeIterator](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Trees/BinarySearchTreeIterator.java)| med | *** |
 |19)| [PostOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/Trees/PostOrderTraversal.java)| med | *** *|
 |20)| [InOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreeInOrderTraversal.java)| med | *** |
-21) [BinaryTreePreOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreePreOrderTraversal.java)
+|21)| [BinaryTreePreOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreePreOrderTraversal.java)| med | *** |
 |22)| [PopulatingRightNextPointer](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/PopulatingNextRightPointer.java)| med | *** |
 
 
