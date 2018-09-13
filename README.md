@@ -30,28 +30,31 @@
 
 
 ## Trees
-1) [BinaryTreeFromInorderAndPostOrder](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/BinaryTreeFromInOrderAndPostOrder.java) _med_  **
-2) [BinaryTreeFromPreAndIn](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/BinaryTreeFromPreAndIn.java) _med_
-3) [DeleteNodeFromBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/DeleteNodeBST.java) _med_
-4) [KthSmallestElementinBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/KthSmallestBST.java) _med_
-5) [LCABST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LCABST.java) _med_ *
-6) [LCABinaryTree](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LCABinaryTree.java) _med_ ***
-7) [LevelOrderTraversal](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LevelOrderTraversal.java) _med_ **
-8) [SortedListToBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/SortedListToBST.java) _med_
-9) [ValidateBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ValidateBST.java) _med_ ***
-10) [ZigZag](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ZigZag.java) _med_ 
-11) [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java) _easy_ 
-12) [ClosestBSTValue](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/Trees/ClosestBSTValue.java) _easy
-13) [RightSideView](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Trees/RightSideView.java)
-14) [InvertBinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/Solution.java)
-15) [IsSameTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/SameTree.java)
-16) [MergeTwoBinaryTrees](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MergeTwoBinaryTrees.java)
-17) [MaximumDepthOfABinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MaximumDepthOfBinaryTree.java)
-18) [BinarySearchTreeIterator](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Trees/BinarySearchTreeIterator.java)
-19) [PostOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/Trees/PostOrderTraversal.java)
-20) [InOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreeInOrderTraversal.java)
+
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [BinaryTreeFromInorderAndPostOrder](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/BinaryTreeFromInOrderAndPostOrder.java)| med| *** |
+|2)| [BinaryTreeFromPreAndIn](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/BinaryTreeFromPreAndIn.java)| _med_| *** |
+|3)| [DeleteNodeFromBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/DeleteNodeBST.java)| _med_| *** |
+|4)| [KthSmallestElementinBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/KthSmallestBST.java)| _med_| *** |
+|5)| [LCABST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LCABST.java)| _med_| ** |
+|6)| [LCABinaryTree](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LCABinaryTree.java)| _med_| *** * |
+|7)| [LevelOrderTraversal](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/LevelOrderTraversal.java)| _med_| * |
+|8)| [SortedListToBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/SortedListToBST.java)| _med_| ** |
+|9)| [ValidateBST](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ValidateBST.java)| _med_ |*** * |
+|10)| [ZigZag](https://github.com/thealgor/Leetcode/blob/master/medium/Trees/ZigZag.java) |_med_ | *** |
+|11)| [SortedArrayToBST](https://github.com/thealgor/Leetcode/blob/master/easy/Trees/SortedArrayToBST.java)| _easy_ | ** |
+|12)| [ClosestBSTValue](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/Trees/ClosestBSTValue.java)| _easy| ** |
+|13) |[RightSideView](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Trees/RightSideView.java)| easy | * |
+|14)| [InvertBinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/Solution.java)| easy| ** |
+|15)| [IsSameTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/SameTree.java) | easy | ** |
+|16)| [MergeTwoBinaryTrees](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MergeTwoBinaryTrees.java)| easy | ** | 
+|17)| [MaximumDepthOfABinaryTree](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/Trees/MaximumDepthOfBinaryTree.java)| easy | *|
+|18)| [BinarySearchTreeIterator](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Trees/BinarySearchTreeIterator.java)| med | *** |
+|19)| [PostOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/Trees/PostOrderTraversal.java)| med | *** *|
+|20)| [InOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreeInOrderTraversal.java)| med | *** |
 21) [BinaryTreePreOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreePreOrderTraversal.java)
-22) [PopulatingRightNextPointer](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/PopulatingNextRightPointer.java)
+|22)| [PopulatingRightNextPointer](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/PopulatingNextRightPointer.java)| med | *** |
 
 
 
