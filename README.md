@@ -2,22 +2,24 @@
 
 ## Binary Search:
 
-1) [Concept](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/BinarySearch.java) <br />
-2) [Sqrt(x)](https://github.com/thealgor/Leetcode/blob/master/easy/SquareRoot.java) _easy_ * <br />
-3) [GuessNumber](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/GuessNumber.java) _v.esay_ <br />
-4) [RotatedBinarySearch](https://github.com/thealgor/Leetcode/blob/master/medium/BinarySearch/RotatedBinarySearch.java) _med_ ** <br />
-5) [IntersectionOfTwoArrays](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays.java) _easy_ <br />
-6) [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java) _easy_ <br />
-7) [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java) _easy_ <br />
-8) [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java) <br />
-9) [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) _hard_ <br />
-10) [FindKClosestElements](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) _med_ *** <br />
-11) [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) _med_ *** <br /> 
-12) [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java) _med_ ** <br />
-13) [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/MedianOfSortedArrays.java)
-14) [FindPeakElement](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/BinarySearch/FindPeakElement.java)
-15) [FirstAndLastPositionInAnArray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstAndLastPositionInArray.java)
-16) [FirstBadVersion](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstBadVersion.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notesa|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [Concept](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/BinarySearch.java)| easy| * | BS||
+|2)| [Sqrt(x)](https://github.com/thealgor/Leetcode/blob/master/easy/SquareRoot.java)| easy | ** | BS||
+|3)| [GuessNumber](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/GuessNumber.java)| easy| * | BS| | 
+|4)| [RotatedBinarySearch](https://github.com/thealgor/Leetcode/blob/master/medium/BinarySearch/RotatedBinarySearch.java) | med| *** | BS | |
+|5)| [IntersectionOfTwoArrays](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays.java)| _easy_ |  |BS ||
+|6)| [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java)| easy ||BS| | 
+|7)| [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java)| easy |  |BS | | 
+|8)| [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java)| | | BS ||
+|9)| [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) | hard | 
+|10)| [FindKClosestElements](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) |med| *** |
+|11)| [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) |med | *** | 
+|12)| [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java)| med | ** |<br />
+|13)| [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/MedianOfSortedArrays.java)| med | *** * |
+|14)| [FindPeakElement](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/BinarySearch/FindPeakElement.java)|
+|15)| [FirstAndLastPositionInAnArray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstAndLastPositionInArray.java)|
+|16)| [FirstBadVersion](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstBadVersion.java)|
 
 
 
