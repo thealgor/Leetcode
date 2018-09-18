@@ -25,8 +25,11 @@
 
 
 ## Linked Lists
-1) [AddTwoNumbers](https://github.com/thealgor/Leetcode/blob/master/medium/LinkedList/AddTwoNumbers.java) _med_ _*_
-2) [RemoveNthNodeFromEnd](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/LinkedList/RemoveNthNodeFromEnd.java)
+
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [AddTwoNumbers](https://github.com/thealgor/Leetcode/blob/master/medium/LinkedList/AddTwoNumbers.java)| med | ***
+|2)| [RemoveNthNodeFromEnd](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/LinkedList/RemoveNthNodeFromEnd.java)|easy|*
 
 
 ## Trees
