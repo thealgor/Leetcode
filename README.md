@@ -63,62 +63,71 @@
 
 
 ## Misc
-1) [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) _easy_
-2) [TwoSum](https://github.com/thealgor/Leetcode/blob/master/easy/misc/TwoSum.java) _easy
-3) [ReverseInteger](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/easy/misc/ReverseInteger.java)
-4) [Valid Paranthesis](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/easy/misc/ValidParanthesis.java)  <br />
-5) [TwoSumDuplicates](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/misc/TwoSumDuplicates.java) <br />
-6) [Search2DMatrix](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix.java) <br />
-7) [Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java) <br />
-8) [TwoSum2](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/easy/BinarySearch/TwoSum2.java) <br />
-9) [FindingTheDuplicateNumber](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/medium/BinarySearch/FindTheDuplicateNumber.java) <br />
-10) [IsPalindrome](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/IsPalindrome.java)
-11) [NumberOf1Bits](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/NumberOf1Bits.java)
-12) [RomanToInteger](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/RomanToInteger.java)
-13) [ContainerWithMostWater](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ContainerWithMostWater.java)
-14) [LRUCacheDoublyLinkedList](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheDoublyLinkedList.java)
-15) [LRUCacheLinkedHashMap](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheLinkedHashMap.java)
-16) [ProductOfArrayExceptSelf](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ProductOfArrayExceptSelf.java)
-17) [BracketMatch](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/Solution.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [FindTheDifference](https://github.com/thealgor/Leetcode/blob/master/easy/misc/FindTheDifference.java) | easy |
+|2)| [TwoSum](https://github.com/thealgor/Leetcode/blob/master/easy/misc/TwoSum.java)| easy |
+|3)| [ReverseInteger](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/easy/misc/ReverseInteger.java)|
+|4)| [Valid Paranthesis](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/easy/misc/ValidParanthesis.java)|
+|5)| [TwoSumDuplicates](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/misc/TwoSumDuplicates.java)|
+|6)| [Search2DMatrix](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix.java)|
+|7)| [Search2DMatrix2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/BinarySearch/Search2DMatrix2.java)|
+|8)| [TwoSum2](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/easy/BinarySearch/TwoSum2.java)|
+|9)| [FindingTheDuplicateNumber](https://github.com/thealgor/Leetcode/blob/c4e86fd2b461c79be080ca557f52683e7d24d06d/medium/BinarySearch/FindTheDuplicateNumber.java)|
+|10)| [IsPalindrome](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/IsPalindrome.java)
+|11)| [NumberOf1Bits](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/NumberOf1Bits.java)|
+|12)| [RomanToInteger](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/misc/RomanToInteger.java)|
+|13)| [ContainerWithMostWater](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ContainerWithMostWater.java)|
+|14)| [LRUCacheDoublyLinkedList](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheDoublyLinkedList.java)|
+|15)| [LRUCacheLinkedHashMap](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheLinkedHashMap.java)|
+|16)| [ProductOfArrayExceptSelf](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ProductOfArrayExceptSelf.java)|
+|17)| [BracketMatch](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/Solution.java)|
 
 
 ## DP
-1) [CountingBits](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/DP/CountingBits.java)
-2) [01Matrix](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/Graphs/ZeroOneMatrix.java)
-3) [HouseRobber](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/DP/HouseRobber.java)
-4) [PerfectSquares](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/PerfectSquares.java)
-5) [MinimumPathSum](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/MinimumPathSum.java)
-6) [EditDistance](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/EditDistance.java)
-7) [Maximum Sum Subarray](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/easy/DP/MaximumSubArraySum.java)
-8) [CoinChange](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/CoinChange.java)
-9) [LongestCommonSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestCommonSubsequence.java)
-10) [LongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestIncresingSubsequence.java)
-11) [MaximumProductSubarray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/MaximumProductSubarray.java)
-12) [WordBreak](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/WordBreak.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [CountingBits](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/DP/CountingBits.java)|
+|2)| [01Matrix](https://github.com/thealgor/Leetcode/blob/ab039c42ad4687f3c20501fba4363ddef4a18cc3/medium/Graphs/ZeroOneMatrix.java)|
+|3)| [HouseRobber](https://github.com/thealgor/Leetcode/blob/30b8dfec709a75b12ff21f619d19244f63f383c0/easy/DP/HouseRobber.java)|
+|4)| [PerfectSquares](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/PerfectSquares.java)|
+|5)| [MinimumPathSum](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/MinimumPathSum.java)|
+|6)| [EditDistance](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/DP/EditDistance.java)|
+|7)| [Maximum Sum Subarray](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/easy/DP/MaximumSubArraySum.java)|
+|8)| [CoinChange](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/CoinChange.java)|
+|9)| [LongestCommonSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestCommonSubsequence.java)|
+|10)| [LongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestIncresingSubsequence.java)|
+|11)| [MaximumProductSubarray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/MaximumProductSubarray.java)|
+|12)| [WordBreak](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/WordBreak.java)|
 
 
 
 
 ## Graphs
-
-1) [PacificAtlantic](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Graphs/PacificAtlanticWaterFlow.java) 
-2) [SurroundedRegions](https://github.com/thealgor/Leetcode/blob/7dc84876edecb253dfa9a8adffb05dd1a8ed5c93/medium/Graphs/SurroundedRegions.java)
-3) [BestTimeToBuyAndSellStocks](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/BestTimeToBuyAndSellStock.java)
-4) [BestTimeToBuyAndSellStocks2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/Solution.java)
-5) [ClimbingStairs](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/ClimbingStairs.java)
-6) [WordLadder](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/WordLadder.java)
-7) [NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)
-8) [CloneGraph](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)
-9) [MaxAreaOfAnIsland](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [PacificAtlantic](https://github.com/thealgor/Leetcode/blob/d287230dc45449ec8236afaf82ec5635e0b30b87/medium/Graphs/PacificAtlanticWaterFlow.java)| 
+|2)| [SurroundedRegions](https://github.com/thealgor/Leetcode/blob/7dc84876edecb253dfa9a8adffb05dd1a8ed5c93/medium/Graphs/SurroundedRegions.java)|
+|3)| [BestTimeToBuyAndSellStocks](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/BestTimeToBuyAndSellStock.java)|
+|4)| [BestTimeToBuyAndSellStocks2](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/Solution.java)|
+|5)| [ClimbingStairs](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/easy/DP/ClimbingStairs.java)|
+|6)| [WordLadder](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/WordLadder.java)|
+|7)| [NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)|
+|8)| [CloneGraph](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)|
+|9)| [MaxAreaOfAnIsland](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)|
 
 
 
 ## BackTracking
-1) [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)| [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)|
 
 
 ## Stacks And Queues
-1)[ValidParantheses](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/StackAndQueues/ValidParantheses.java)
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1)|[ValidParantheses](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/StackAndQueues/ValidParantheses.java)|
 
 
 
