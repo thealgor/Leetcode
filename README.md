@@ -30,6 +30,11 @@
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1)| [AddTwoNumbers](https://github.com/thealgor/Leetcode/blob/master/medium/LinkedList/AddTwoNumbers.java)| med | ***
 |2)| [RemoveNthNodeFromEnd](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/LinkedList/RemoveNthNodeFromEnd.java)|easy|*
+|3)|[LinkedListCycle](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/LinkedList/LinkedListCycle.java)| easy |  ** |
+|4| [CopyListWithRandomPointer](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/LinkedList/CopyListWithRandomPointer.java) | med | ** |
+|5| [MergeTwoSortedLists](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/LinkedList/MergeTwoSortedLists.java)| med | ** |
+
+
 
 
 ## Trees
@@ -58,7 +63,9 @@
 |20)| [InOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreeInOrderTraversal.java)| med | *** |
 |21)| [BinaryTreePreOrderTraversal](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/BinaryTreePreOrderTraversal.java)| med | *** |
 |22)| [PopulatingRightNextPointer](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Trees/PopulatingNextRightPointer.java)| med | *** |
-
+|23| [MinimumDepth](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/Trees/MinimumDepth.java) | easy |*| 
+|24| [FindBottomLeftTree](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Trees/FindBottomLeftTreeValue.java)| easy | ** | 
+|25|[SerializeDeserialze](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Trees/SerializeDeserialize.java)| med | *** | 
 
 
 
@@ -82,6 +89,9 @@
 |15)| [LRUCacheLinkedHashMap](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/LRUCacheLinkedHashMap.java)|
 |16)| [ProductOfArrayExceptSelf](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/ProductOfArrayExceptSelf.java)|
 |17)| [BracketMatch](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/misc/Solution.java)|
+|18| [MinimumWordDistance](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/misc/ShortestWordDistance.java) | easy | ** | 
+|19| [ThreeSum](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/misc/ThreeSum.java)| med | ** |
+|20| [ValidTicTacToe](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/misc/ValidTicTacToe.java) | med | *** |
 
 
 ## DP
@@ -115,19 +125,33 @@
 |7)| [NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)|
 |8)| [CloneGraph](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)|
 |9)| [MaxAreaOfAnIsland](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/Graphs/CloneGraph.java)|
+|10| [CourseSchedule](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/CourseSchedule.java)| med | *** * | 
+|12| [DecodeString](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/DecodeString.java)|  med | *** |
+|13| [RemoveInvalidParantheses](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/RemoveInvalidParantheses.java)| med | *** |
+
 
 
 
 ## BackTracking
 | Squence | Problem       | Level  | Stars  | Tags | Notes|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
-|1)| [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)|
+|1)| [Subsets](https://github.com/thealgor/Leetcode/blob/950a44ef5d4aa9a0b0b9473115ae7caa788cd740/medium/misc/Subsets.java)| med | *** |
+|2| [WordLadder2](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/hard/Backtracking/WordLadder2.java) | hard | *** * |
+|3| [CombinationSum](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/CombinationSum.java)| med | *** |
+|4| [CombinationSum2](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/CombinationSum2.java) | med | *** |
+|5| [Combinations](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/Combinations.java)| med| *** |
+|6| [GenerateParantheses](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/GenerateParantheses.java)| med | *** * |
+|7| [NextPermuatation](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/NextPermumation.java)| med | *** |
+|8| [Permuatations2](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Backtracking/Permuatations2.java)| med | *** | 
+
 
 
 ## Stacks And Queues
 | Squence | Problem       | Level  | Stars  | Tags | Notes|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1)|[ValidParantheses](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/StackAndQueues/ValidParantheses.java)|
+
+
 
 
 
