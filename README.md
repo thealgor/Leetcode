@@ -33,6 +33,9 @@
 |3)|[LinkedListCycle](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/LinkedList/LinkedListCycle.java)| easy |  ** |
 |4| [CopyListWithRandomPointer](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/LinkedList/CopyListWithRandomPointer.java) | med | ** |
 |5| [MergeTwoSortedLists](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/LinkedList/MergeTwoSortedLists.java)| med | ** |
+|6| [ReverseKNodes](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/hard/LinkedList/ReverseKNodes.java)| hard | *** * |
+|7| [FlattenNestedListIterator](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/LinkedList/FlattenNestedListIterator.java)| med | *** |
+
 
 
 
@@ -66,6 +69,10 @@
 |23| [MinimumDepth](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/Trees/MinimumDepth.java) | easy |*| 
 |24| [FindBottomLeftTree](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Trees/FindBottomLeftTreeValue.java)| easy | ** | 
 |25|[SerializeDeserialze](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Trees/SerializeDeserialize.java)| med | *** | 
+|26| [PathSum](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/easy/Trees/PathSum.java) | easy | ** |
+|27| [PathSum2](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/Trees/PathSum2.java)| med | ** |
+|28| [SumRootToLeafNumbers](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/Trees/SumRootToLeafNumbers.java) | easy | ** | 
+
 
 
 
@@ -92,6 +99,27 @@
 |18| [MinimumWordDistance](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/easy/misc/ShortestWordDistance.java) | easy | ** | 
 |19| [ThreeSum](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/misc/ThreeSum.java)| med | ** |
 |20| [ValidTicTacToe](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/misc/ValidTicTacToe.java) | med | *** |
+|21| [FizzBuzz](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/easy/misc/FizzBuzz.java) | easy | * | 
+|22| [JewelsAndStones](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/easy/misc/JewelsAndStones.java) | easy | * |
+|23| [MergeSortedArray](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/easy/misc/MergeSortedArray.java) | easy | *** |
+|24| [ArrayNesting](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/ArrayNesting.java)| med | *** | 
+|25| [GroupAnagrams](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/GroupAnagrams.java) | easy | ** | 
+|26| [MergeIntervals](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/MergeIntervals.java) | med | *** | 
+|27| [MovingAverage](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/MovingAverage.java) | med| *** |
+|28| [NextClosestTime](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/NextClosestTime.java) | med | *** * | 
+|29| [ThreeSumClosest](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/ThreeSumClosest.java) | med | *** |  
+|30| [ValidSudoku](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/ValidSudoku.java) | med | *** | 
+
+
+
+## PriorityQueues
+
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1| [KthLargestElementInTheArray](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/PriorityQueues/KthLargestElementInArray.java)| easy | ** |
+|2| [MergeKSortedLists](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/PriorityQueues/MergeKSortedLists.java) | med | *** |
+|3| [TopKFrequentElements](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/PriorityQueues/TopKFrequentElements.java)| med | ***  |
+|4| [TaskScheduler](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/misc/TaskScheduler.java)| med | *** |  
 
 
 ## DP
@@ -108,7 +136,10 @@
 |9)| [LongestCommonSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestCommonSubsequence.java)|
 |10)| [LongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/e062fb75e3cf2dbded28da4727dbbee8b6ffba75/medium/DP/LongestIncresingSubsequence.java)|
 |11)| [MaximumProductSubarray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/MaximumProductSubarray.java)|
-|12)| [WordBreak](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/WordBreak.java)|
+|12)| [WordBreak](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/DP/WordBreak.java |
+|13| [DecodeWays](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/DP/DecodeWays.java) | med | *** |
+|14|[UniquePaths](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/DP/UniquePaths.java) | med | *** | 
+|15| [UniquePaths2](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/DP/UniquePaths2.java)| med | *** |
 
 
 
@@ -128,6 +159,7 @@
 |10| [CourseSchedule](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/CourseSchedule.java)| med | *** * | 
 |12| [DecodeString](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/DecodeString.java)|  med | *** |
 |13| [RemoveInvalidParantheses](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/RemoveInvalidParantheses.java)| med | *** |
+|14| [WordSearch](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/Graphs/WordSearch.java)| med| *** |
 
 
 
