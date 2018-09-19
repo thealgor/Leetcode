@@ -1,6 +1,7 @@
 package medium.Trees;
 
 class SumRootToLeafNumbers {
+
     int sum = 0;
     public int sumNumbers(TreeNode root) {
         if(root==null)
