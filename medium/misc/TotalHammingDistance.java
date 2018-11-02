@@ -25,7 +25,7 @@ For each bit position 1-32 in a 32-bit integer, we count the number of integers 
             }
         }
         return total;
-    }
+
 
     public int hammingDistance(int x, int y) {
         int v = x^y;
