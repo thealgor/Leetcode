@@ -41,6 +41,9 @@
 |11| [RemoveLinkedListElements](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/LinkedList/RemoveLinkedListElements.java) | easy | ** |
 |12| [RemoveDuplicatesFromSortedList2](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/LinkedList/RemoveDuplicatesFromSortedList2.java) | med  | *** |
 |13| [SortList](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/LinkedList/SortList.java) | med | *** |
+|14|[DeleteNodeInLinkedList](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/LinkedList/DeleteNodeInLinkedList.java)| easy | * |
+|15| [MiddleOfTheLinkedList](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/LinkedList/MiddleOfTheLinkedList.java)| easy | ** |
+|16| [SwapNodesInPairs](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/LinkedList/SwapNodesInPairs.java) | med | *** |
 
 
 ## Strings
@@ -51,6 +54,13 @@
 |3| [ReverseString](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/String/ReverseString.java) | easy | ** |
 |4| [IntegerToEnglishWords](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/String/IntegerToEnglishWords.java) | hard | *** * |
 |5|[StringToInteger](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/Strings/StringToInteger.java) | med | *** |
+|6| [FindAllAnagramInAString](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/String/FindAllAnagramsInAString.java)|easy | *** | 
+|7| [LongestSubstringwithAtmostKDistinctCharacters](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Strings/LongestSubStringWithAtmostKDistinctChars.java) | med  | *** | pattern |
+|8| [MinimumWindowSubstring](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Strings/MinimumWindowSubstring.java) | med  | *** | pattern |
+|9| [SubstringConcatenationOfAllWords](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Strings/SubStringWithConcatenationOfAllWords.java) | med | *** | Pattern |
+|10|[IsSubsequence](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Strings/IsSubsequence.java)| med | *** |
+|11|[LongestSubstringWithoutRepeatingCharacters](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Strings/LongestSubstringWithoutRepeatingCharacters.java)| med | *** |
+
 
 
 ## Greedy
@@ -104,6 +114,7 @@
 |33| [FindModeINBST](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/Trees/FindModeInBinarySearchTree.java) | easy | *** |
 |34| [BinaryTreeVerticalOrderTraversal](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/Trees/BinaryTreeVerticalOrderTraversal.java)| med | *** |
 |35| [CompleteBinaryTreeInserter](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/Trees/CompleteBinaryTreeInserter.java) | med | *** |
+|36| [FindDuplicateSubtrees](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Trees/FindDuplicateSubtrees.java) | med | *** * |
 
 
 
@@ -168,6 +179,12 @@
 |53| [MaximumSizeSubarraySumEqualsK](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/misc/MaximumSizeSubarraySumEqualsK.java) | med | *** * |
 |54| [MinimumSizeSubArraySum](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/misc/MinimuSizeSubarraySum.java) | med | *** | 
 |55| [TotalHammingDistance](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/misc/TotalHammingDistance.java) | med | *** * |
+|56| [ValidPalindrome](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/misc/ValidPalindrome.java) | easy | ** |
+|57| [InsertDeleteRandomO1DuplicatesAllowed](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/misc/InsertDeleteGetRandomO1DuplicatesAllowed.java) | med | *** * |
+|58| [InsertDeleteRandomO1](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/misc/InsertDeleteGetRandomO1.java)| med | *** |
+|59| [LogRateLimiter](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/misc/LoggerRateLimiter.java) | med | *** |
+
+
 
 
 
@@ -214,9 +231,8 @@
 |24| [MaximumLengthOfRepeatedSubArray](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/DP/MaximumLengthOfRepatedSubarray.java) | med | *** |
 |25| [MaximumSumCircularSubArray](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/DP/MaximumSumCircularSubarray.java) | med | *** |
 |26| [MinimumFallingPathSum](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/DP/MinimumFallingPathSum.java) | med | ** |
-
-
-
+|27|[HouseRobber](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/misc/HouseRobber.java) | easy | *** |
+|28| [HouseRobber2](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/DP/HouseRobber2.java) | med | *** |
 
 
 
@@ -242,6 +258,7 @@
 |16| [GraphValidTree](https://github.com/thealgor/Leetcode/blob/5a6e0e0393493f16eb5994b73576ec56df9f361d/medium/Graphs/GraphValidTree.java)| med | *** |
 |17| [ReconstructItinerary](https://github.com/thealgor/Leetcode/blob/5a6e0e0393493f16eb5994b73576ec56df9f361d/medium/Graphs/ReconstructItinerary.java)| med | *** |
 |18| [NumberOfDistinctIslands](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/Graphs/NumberOfDistinctIslands.java)| med | *** |
+|19| [TernaryExpressionParser](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Graphs/TernaryExpressionParser.java) | med | *** * | 
 
 
 
@@ -270,14 +287,24 @@
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1)|[ValidParantheses](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/StackAndQueues/ValidParantheses.java)| med | *** |
 |2| [DailyTemperatures](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/StacksAndQueues/DailyTemperatures.java) | med | *** |
+|3| [MaximumFrequencyStack](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Stack/MaximumFrequencyStack.java) | hard | *** |
+|4| [ReversePolishNotation](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/StacksAndQueues/ReversePolishNotation.java) | med | *** |
+
 
 
 
 ## Sorting
-| Squence | Problem       | Level  | Stars  | Tags | Notesa|
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1| [MeetingRooms](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/misc/MeetingRooms.java) | easy | *** |
 
 
+## ADV DS
+| Squence | Problem       | Level  | Stars  | Tags | Notes|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|1| [AddAndSearchWord](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/AdvDS/AddAndSearchWord.java) | med | *** | Trie |
+|2| [ImplementTrie](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/AdvDS/ImplementTrie.java) | med | *** * | Trie
 
-### Total: 189
+
+
+### Total: 210
