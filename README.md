@@ -48,7 +48,7 @@
 |17| [NestedListWeightSum](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/misc/NestedListWeightSum.java) | easy | *** |
 |18| [FlattenMultilevelLinkedList](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/hard/LinkedList/FlattenMultiLevelLinkedList.java) | hard | *** * | 
 |19| [FindLinkedListCycle2](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/LinkedList/LinkedListCycle2.java) | med | *** |
-
+|20|[ZigZagIterator](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/LinkedList/ZigZagIterator.java) | med | *** |
 
 
 ## Strings
@@ -68,7 +68,8 @@
 |12| [GroupShiftedString](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/GroupShiftedStrings.java) | med | *** * |
 |13| [IsomorphicString](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/IsomorphicStrings.java) | med | *** |
 |14| [MultiplyStrings](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/MultiplyStrings.java) | med | . *** * |
-
+|15| [EncodeDecodeTinyURL](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/EncodeDecodeTinyUrl.java) | med | *** |
+|16| [ReverseWordsInSring](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/RemoveDuplicatesFromSortedArray2.java) | med | *** |
 
 
 ## Greedy
@@ -127,6 +128,9 @@
 |37| [BalancedBinaryTree](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/Trees/BalancedBinaryTree.java)| easy | *** |
 |38| [DiameterOfBinaryTree](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/Trees/DiameterOfBinaryTree.java) | med | *** | 
 |39| [ConvertBSTToGreaterTree](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Trees/ConvertBSTToGreaterTree.java) | med | ** |
+|40| [BinaryTreePaths](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/easy/Trees/BinaryTreePaths.java) | easy | ** |
+|41| [BinaryTreeLevelOrder2](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Trees/BinaryTreeLevelOrder2.java) | med | *** |
+
 
 
 
@@ -201,7 +205,20 @@
 |62| [FourSum](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/FourSum.java) | med | *** * |
 |63| [NestedListWeightSum](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/NestedListWeightSum.java) | med | *** |
 |64| [TwoSum3](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/TwoSum3.java) | med | *** |
-
+|66| [RemoveDuplicatesFromSortedArray](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/easy/misc/RemoveDuplicatesFromSortedArray.java) | easy | ** |
+|67| [SingleNumber](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/easy/misc/SingleNumber.java) | easy | ** |
+|68| [DesignHitCounter](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/StacksAndQueues/DesignHitCounter.java) | medium | *** |
+|69| [CircularArrayLoop](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/CircularArrayLoop.java) | med | *** |
+|70| [DesignTicTacToe](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/DesignTicTacToe.java) | med | *** |
+|71|[LonelyPixel1](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/LonelyPixel1.java) | med | *** |
+|72|[MajorityElement](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/MajorityElement.java) | med | *** |
+|73| [PeekingIterator](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/PeekingIterator.java) | med | *** |
+|74| [RemoveDuplicatesFromSortedArray2](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/RemoveDuplicatesFromSortedArray2.java) | med | *** |
+|75|[ShuffleArray](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/ShuffleArray.java) | med | *** |
+|76|[SingleNumber2](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/SingleNumber2.java) |med | *** |
+|77|[SingleNumber3](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/SingleNumber3.java) | med | *** |
+|78|[SolveTheEquation](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/SolveTheEquation.java) | med | *** |
+|79| [ValidateIPAddress](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/ValidateIPAdress.java) | med | *** |
 
 ## PriorityQueues
 
@@ -214,6 +231,9 @@
 |5| [TopKFrequentWords](https://github.com/thealgor/Leetcode/blob/6843460af8abeca2ac3f38921c19a44186a8e404/medium/PriorityQueues/TopKFrequentWords.java) | med | *** | 
 |5| [FindKPairsWithSmallestSums](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/PriorityQueues/FindKPairsWithSmallestSums.java) | med | *** |
 |6| [MeetingRooms2](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/PriorityQueues/MeetingRooms2.java) | med | *** |
+|7| [FindMedianFromDataStreams](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/PriorityQueues/FindMedianFromDataStreams.java) | med | *** |
+|8| [SlidingWindowMaximum](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/PriorityQueues/SlidingWindowMaximum.java) | med | *** |
+|9|[SortCharactersByFrequency](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Sorting/SortCharactersByFrequency.java)|med | *** |
 
 
 ## DP
@@ -280,6 +300,16 @@
 |24| [Themaze](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Graphs/TheMaze.java) |med | *** |
 |25| [TheMaze2](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Graphs/TheMaze2.java) | med | *** |
 |26| [WallsAndGates](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Graphs/WallsAndGates.java) | med | *** |
+|27| [AccountsMerge](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/AccountsMerge.java) | med | *** * |
+|28| [FloodFill](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/FloodFill.java) | med | *** |
+|29|[GameOfLife](https://github.com/thealgor/Leetcode/blob/master/medium/Graphs/GameOfLife.java) | med | *** |
+|30| [IncreasingSubsequences](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/IncreasingSubsequences.java)|med | *** * |
+|31| [IslandPerimeter](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/IslandPerimeter.java) | med | *** |
+|32| [MatchstickstoSquare](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/MatchSticksToSquare.java) | med | *** * |
+|33| [TargetSum](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/TargetSum.java) | med | *** |
+
+
+
 
 
 
@@ -314,6 +344,8 @@
 |4| [ReversePolishNotation](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/StacksAndQueues/ReversePolishNotation.java) | med | *** |
 |5| [MaxStack](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/StackAndQueues/MaxStack.java)| easy | *** |
 |6| [MinStack](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/StackAndQueues/MinStack.java) | easy | *** |
+|7|[ExclusiveTimeFunction](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/StacksAndQueues/ExclusiveTimeOfFunctions.java) | med | *** |
+|8|[LargestRectangleInHistogram](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/StacksAndQueues/LargestRectangleInHistogram.java) | med | *** |
 
 
 
