@@ -49,6 +49,10 @@
 |18| [FlattenMultilevelLinkedList](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/hard/LinkedList/FlattenMultiLevelLinkedList.java) | hard | *** * | 
 |19| [FindLinkedListCycle2](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/LinkedList/LinkedListCycle2.java) | med | *** |
 |20|[ZigZagIterator](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/LinkedList/ZigZagIterator.java) | med | *** |
+|21|[PalindromeLinkedList](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/LinkedList/PalindromeLinkedList.java) | med | *** |
+|22|[ReorderList](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/LinkedList/ReorderList.java) | med | *** |
+|23|[ReverseLinkedList2](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/LinkedList/ReverseLinkedList2.java) | med | *** |
+
 
 
 ## Strings
@@ -70,6 +74,15 @@
 |14| [MultiplyStrings](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/misc/MultiplyStrings.java) | med | . *** * |
 |15| [EncodeDecodeTinyURL](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/EncodeDecodeTinyUrl.java) | med | *** |
 |16| [ReverseWordsInSring](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/RemoveDuplicatesFromSortedArray2.java) | med | *** |
+|17|[ReverseOnlyLetters](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/easy/misc/ReverseOnlyLetters.java)| easy | ** |
+|18| [ValidPalindrome2](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/easy/misc/ValidPalindrome2.java) | easy | ** |
+|19| [FlipStringToMontoneIncreasing](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/FlipStringToMonotoneIncreasing.java) | med | *** |
+|20| [LongestCommonPrefix](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/LongestCommonPrefix.java) | med | *** |
+|21|[MinAddToMakeParanthesesValid](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/MinAddToMakeParanthesesValid.java) | med | *** |
+|22|[PalindromeSubstringGood](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/PalindromeSubStringGood.java) | med | *** |
+|23|[RepeatedDNASequnce](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/RepeatedDnaSequence.java) | med | *** |
+|24|[ShortestWordDistance3](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/ShortestWordDistance3.java) | med | *** * |
+|25|[ValidParanthsesString](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/ValidParanthesesString.java) | med || *** |
 
 
 ## Greedy
@@ -77,12 +90,6 @@
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1| [JumpGame2](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/hard/Greedy/JumpGame2.java) | med | *** * |
 |2|[JumpGame](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Greedy/JumpGame.java) | med | *** |
-
-
-
-
-
-
 
 
 ## Trees
@@ -130,8 +137,9 @@
 |39| [ConvertBSTToGreaterTree](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Trees/ConvertBSTToGreaterTree.java) | med | ** |
 |40| [BinaryTreePaths](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/easy/Trees/BinaryTreePaths.java) | easy | ** |
 |41| [BinaryTreeLevelOrder2](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Trees/BinaryTreeLevelOrder2.java) | med | *** |
-
-
+|42| [AllNodesDistanceInKBinaryTree](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/Trees/AllNodesDistanceInKBinaryTree.java)| med | *** * |
+|43|[CompleteBinaryTree](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/Trees/CompleteBinaryTree.java) | med | *** * |
+|44| [FindLargestValueInEachTreeRow](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/Trees/FindLargestValueInEachTreeRow.java) | med | *** |
 
 
 
@@ -219,6 +227,11 @@
 |77|[SingleNumber3](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/SingleNumber3.java) | med | *** |
 |78|[SolveTheEquation](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/SolveTheEquation.java) | med | *** |
 |79| [ValidateIPAddress](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/ValidateIPAdress.java) | med | *** |
+|80|[LongPressedName](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/easy/misc/LongPressedName.java) | easy | *** |
+|81|[ContinuousSubArraySum](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/ContinuousSubArraySum.java) | med | *** |
+|82|[SubArraySumEqualsK](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/SubArraySumEqualsK.java) | med| *** |
+|83| [ThreeSumMultiplicity](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/misc/ThreeSumWithMultiplicity.java) | med | *** * |
+
 
 ## PriorityQueues
 
@@ -267,6 +280,16 @@
 |26| [MinimumFallingPathSum](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/medium/DP/MinimumFallingPathSum.java) | med | ** |
 |27|[HouseRobber](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/easy/misc/HouseRobber.java) | easy | *** |
 |28| [HouseRobber2](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/DP/HouseRobber2.java) | med | *** |
+|29|[InterleavingString](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/hard/DP/InterleavingString.java) | hard | *** * |
+|30|[RegularExpression](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/hard/DP/RegularExpression.java) | hard | *** * |
+|31| [DistinctSubsequences](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/DistinctSubsequences.java)| med| *** |
+|32| [Dungeon](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/Dungeon.java) | med | *** |
+|33|[LongestContinuousIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/LongestContinuousIncreasingSubsequence.java) | med | *** |
+|34|[LongestPalindromicSubsequnce](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/LongestPalindromeSubSequence.java) | med | *** |
+|35|[LongestPalindromicSubstring](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/LongestPalindromeSubstring.java) | med | *** * |
+|36|[MaximumSubArraySumCircular](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/MaximumSubArraySumCircular.java) | med | *** * |
+|37|[NumberOfLongestIncreasingSubsequence](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/NumberOfLongestIncreasingSubsequnce.java) | med | *** |
+|38|[Triangle](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/Triangle.java)| med | *** |
 
 
 
@@ -307,8 +330,8 @@
 |31| [IslandPerimeter](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/IslandPerimeter.java) | med | *** |
 |32| [MatchstickstoSquare](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/MatchSticksToSquare.java) | med | *** * |
 |33| [TargetSum](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/Graphs/TargetSum.java) | med | *** |
-
-
+|34|[MinimumMalwareSpread](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/hard/DP/MinimizeMalwareSpread.java) | hard | *** * |
+|35|[MineSweeper](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/Graphs/MineSweeper.java)| med | *** |
 
 
 
@@ -346,6 +369,8 @@
 |6| [MinStack](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/easy/StackAndQueues/MinStack.java) | easy | *** |
 |7|[ExclusiveTimeFunction](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/StacksAndQueues/ExclusiveTimeOfFunctions.java) | med | *** |
 |8|[LargestRectangleInHistogram](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/StacksAndQueues/LargestRectangleInHistogram.java) | med | *** |
+|9|[ImplementStackUsingQueues](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/easy/StackAndQueues/ImplementStackUsingQueues.java) | easy | *** |
+
 
 
 
@@ -355,6 +380,7 @@
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
 |1| [MeetingRooms](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/misc/MeetingRooms.java) | easy | *** |
 |2| [SortColors](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Sorting/SortColors.java) | med | *** |
+|3| [SortArrayByParity2](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/easy/misc/SortArrayByParity2.java) | easy | ** |
 
 
 
@@ -384,4 +410,4 @@
 |1| [AllsubsetPermutationCombination](https://github.com/thealgor/Leetcode/blob/master/PermutationCombinationSubset)
 
 
-### Total: 271
+### Total: 304
