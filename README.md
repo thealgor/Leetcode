@@ -8,8 +8,8 @@
 |2)| [Sqrt(x)](https://github.com/thealgor/Leetcode/blob/master/easy/SquareRoot.java)| easy | ** | BS||
 |3)| [GuessNumber](https://github.com/thealgor/Leetcode/blob/master/easy/BinarySearch/GuessNumber.java)| easy| * | BS| | 
 |4)| [RotatedBinarySearch](https://github.com/thealgor/Leetcode/blob/master/medium/BinarySearch/RotatedBinarySearch.java) | med| *** | BS | |
-|5)| [IntersectionOfTwoArrays](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays.java)| _easy_ |  |BS ||
-|6)| [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java)| easy ||BS| | 
+|5)| [IntersectionOfTwoArrays](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays.java)| _easy_ |  **  |BS ||
+|6)| [IntersectionOfTwoArrays2](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/IntersectionOfTwoArrays2.java)| easy | *** |BS| | 
 |7)| [SmallestLetterGreaterThanTarget](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/SmallestLetterGreaterThanTarget.java)| easy |  |BS | | 
 |8)| [ValidPerfectSquare](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/easy/BinarySearch/ValidPerfectSquare.java)| | | BS ||
 |9)| [FindMinimumInRotatedSortedArray2](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/FindMinimumInRotatedSortedArray2.java) | hard | 
