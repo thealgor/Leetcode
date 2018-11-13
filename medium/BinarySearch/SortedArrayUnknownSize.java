@@ -1,6 +1,31 @@
 //look at discuss again.
 class Solution {
-    public int search(ArrayReader reader, int target) {
+    
+   /*To use binary search, we need to find the search space defined by low and hi. Find hi by moving hi exponentially. Once hi is found, low is previous hi. Then do binary search.
+
+*/ 
+  public int search(ArrayReader reader, int target) {
+    int hi = 1;
+    while (reader.get(hi) < target) {
+        hi = hi << 1;
+    }
+    int low = hi >> 1;
+    while (low <= hi) {
+        int mid = low+(hi-low)/2;
+        if (reader.get(mid) > target) {
+            hi = mid-1;
+        } else if (reader.get(mid) < target) {
+            low = mid+1;
+        } else {
+            return mid;
+        }
+    }
+    return -1;
+}
+    
+    
+    
+    public int search1(ArrayReader reader, int target) {
         if (target < -9999 || target > 9999) {
             return -1;
         }
