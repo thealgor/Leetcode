@@ -16,7 +16,7 @@
 |10)| [FindKClosestElements](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/FindKClosestElements.java) |med| *** |
 |11)| [PowerFunction](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/PowerFunction.java) |med | *** | 
 |12)| [SortedArrayUnknownSize](https://github.com/thealgor/Leetcode/blob/a6a8227d51b57b6960ea57664315ea16d1a64108/medium/BinarySearch/SortedArrayUnknownSize.java)| med | ** |<br />
-|13)| [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/hard/BinarySearch/MedianOfSortedArrays.java)| med | *** * |
+|13)| [MedianOfSortedArrays](https://github.com/thealgor/Leetcode/blob/master/hard/BinarySearch/MedianOfSortedArrays.java)| med | *** * |
 |14)| [FindPeakElement](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/easy/BinarySearch/FindPeakElement.java)|
 |15)| [FirstAndLastPositionInAnArray](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstAndLastPositionInArray.java)|
 |16| [FirstBadVersion](https://github.com/thealgor/Leetcode/blob/5be634203d9857dd79a09b6d04e5859c3a9e8655/medium/BinarySearch/FirstBadVersion.java)|
