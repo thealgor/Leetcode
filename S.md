@@ -27,3 +27,18 @@
 |23|[Basic Calculator I](https://leetcode.com/problems/basic-calculator/discuss/62361/Iterative-Java-solution-with-stack)
 |24|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/discuss/63003/Share-my-java-solution)
 |25|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/discuss/113600/Java-and-Python-O(n)-Solution-Using-Two-Stacks)
+|26|[GameOfLife](https://github.com/thealgor/Leetcode/blob/master/medium/Graphs/GameOfLife.java)
+|27|[WordLadder](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/WordLadder.java)
+|28|[AddStrings](https://leetcode.com/problems/add-strings/discuss/90436/Straightforward-Java-8-main-lines-25ms)
+|29|[ReconstructItinerary](https://github.com/thealgor/Leetcode/blob/5a6e0e0393493f16eb5994b73576ec56df9f361d/medium/Graphs/ReconstructItinerary.java)
+|30|[Maze2](https://github.com/thealgor/Leetcode/blob/844e7c50f2523d877a034ff48766ebd8c87144ef/medium/Graphs/TheMaze2.java)
+|31|[EqualTreePartition](https://leetcode.com/problems/equal-tree-partition/discuss/106727/JavaC++-Simple-solution-with-only-one-HashMaplessgreater.)
+|32|[MajorityElement](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/misc/MajorityElement.java)
+|33|[MedianFromDataStreams](https://github.com/thealgor/Leetcode/blob/7be834c3ee6df0c4377108b6d113b09f4bdc9918/medium/PriorityQueues/FindMedianFromDataStreams.java)
+|34|[OneEditDistance](https://leetcode.com/problems/one-edit-distance/discuss/50098/My-CLEAR-JAVA-solution-with-explanation)
+|35|[JumpGame2](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/hard/Greedy/JumpGame2.java)
+|36|[JumpGame](https://leetcode.com/problems/jump-game/solution/)
+|37|[MinimumWindowSubstring](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Strings/MinimumWindowSubstring.java)
+|38|[SetMatrixZeros](https://github.com/thealgor/Leetcode/blob/5a6e0e0393493f16eb5994b73576ec56df9f361d/medium/misc/SetMatrixZeros.java)
+|39|[]
+
