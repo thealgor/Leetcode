@@ -50,5 +50,5 @@
 |46|[TrappingRainWaterSol](https://leetcode.com/problems/trapping-rain-water/solution/)
 |47|[BinaryTreeMaxPathSum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/39775/Accepted-short-solution-in-Java)
 |48|[DuplicateSubTree](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Trees/FindDuplicateSubtrees.java)
-
+|49|[WordAbbrevationTrie](https://github.com/thealgor/Leetcode/blob/master/hard/misc/WordAbbrevation.java)
 
