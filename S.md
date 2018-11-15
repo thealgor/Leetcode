@@ -40,5 +40,15 @@
 |36|[JumpGame](https://leetcode.com/problems/jump-game/solution/)
 |37|[MinimumWindowSubstring](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/hard/Strings/MinimumWindowSubstring.java)
 |38|[SetMatrixZeros](https://github.com/thealgor/Leetcode/blob/5a6e0e0393493f16eb5994b73576ec56df9f361d/medium/misc/SetMatrixZeros.java)
-|39|[]
+|39|[Triangle](https://github.com/thealgor/Leetcode/blob/33be7c4f35f910c632ec676c79f4082492772453/medium/DP/Triangle.java)
+|40|[NumberOfIslands](https://github.com/thealgor/Leetcode/blob/da1e3b65e67ace9c9bfce874a3d1a06256b65a3a/medium/Graphs/NumberOfIslands.java)
+|41|[FindModeInBinaryTree](https://github.com/thealgor/Leetcode/blob/b7d6873cd0d9ce951feb90b21cb84bb53edf9dfd/easy/Trees/FindModeInBinarySearchTree.java)
+|42|[ImplementTrie](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/AdvDS/ImplementTrie.java)
+|43|[IsSubsequence](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Strings/IsSubsequence.java)
+|44|[DecodeString](https://github.com/thealgor/Leetcode/blob/e7f5a157d6ff48f7d3d868b72cde44028abdd412/medium/Graphs/DecodeString.java)
+|45|[TrappingRainWater](https://leetcode.com/problems/trapping-rain-water/discuss/17414/A-stack-based-solution-for-reference-inspired-by-Histogram)
+|46|[TrappingRainWaterSol](https://leetcode.com/problems/trapping-rain-water/solution/)
+|47|[BinaryTreeMaxPathSum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/39775/Accepted-short-solution-in-Java)
+|48|[DuplicateSubTree](https://github.com/thealgor/Leetcode/blob/2a71fe417a68df82af92942eed147ade87fe76cb/medium/Trees/FindDuplicateSubtrees.java)
+
 
