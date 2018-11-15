@@ -2,6 +2,7 @@
 
 | Squence | Problem       | Level  | Stars  | Tags | Notesa|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
+|51| [PrintTreeHierarcy](https://wxx5433.github.io/print-tree-hierarchy.html)
 |1| [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/solution/) |
 |2| [Valid Sudoku](https://github.com/thealgor/Leetcode/blob/master/medium/misc/ValidSudoku.java)
 |3|[WordSearch](https://github.com/thealgor/Leetcode/blob/96e577ace3dc0538d88d55d8526005cb0828bf70/medium/Graphs/WordSearch.java)
